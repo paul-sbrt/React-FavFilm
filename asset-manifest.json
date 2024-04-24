@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-FavFilm/static/css/main.71003210.css",
+    "main.js": "/React-FavFilm/static/js/main.83d0f0f5.js",
+    "static/js/453.5c9fe793.chunk.js": "/React-FavFilm/static/js/453.5c9fe793.chunk.js",
+    "index.html": "/React-FavFilm/index.html",
+    "main.71003210.css.map": "/React-FavFilm/static/css/main.71003210.css.map",
+    "main.83d0f0f5.js.map": "/React-FavFilm/static/js/main.83d0f0f5.js.map",
+    "453.5c9fe793.chunk.js.map": "/React-FavFilm/static/js/453.5c9fe793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71003210.css",
+    "static/js/main.83d0f0f5.js"
+  ]
+}
